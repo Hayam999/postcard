@@ -1,2 +1,3 @@
 # postcard
-Postcard form
+
+<img src="postcard.png">
